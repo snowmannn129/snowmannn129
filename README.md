@@ -79,13 +79,14 @@ RebelSUITE is still in **Alpha**, meaning core features are being implemented. H
 
 ## **Contribute to RebelSUITE**  
 
-Since RebelSUITE is fully open-source, anyone can contribute!  
+Since RebelSUITE is fully open-source, **anyone can contribute!** Whether you’re a developer, tester, writer, or just someone who believes in the mission, your support makes a difference.  
 
-### How to Help:  
+### **How to Help:**  
 💡 **Report Issues** – Found a bug or have a feature request? Open an Issue!  
 📜 **Improve Documentation** – Help refine our guides and install instructions.  
 💻 **Code Contributions** – Submit Pull Requests to improve functionality.  
 📢 **Spread the Word** – Share the project with others who might benefit!  
+💰 **Support Development** – Donations help keep RebelSUITE alive and growing. You can contribute via **[PayPal](https://www.paypal.com/donate/?hosted_button_id=5CVDF9XX5858U)**. Every donation goes toward making these tools better and more accessible.  
 
 Even if you’re not a developer, **your feedback matters**—testing, ideas, and support help drive the project forward.  
 
