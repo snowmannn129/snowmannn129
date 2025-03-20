@@ -9,17 +9,19 @@ This project is **not** created by a professional development team—it's the wo
 
 My goal is simple: **Break the chains of corporate software pricing** and give people access to professional-grade tools—completely free.  
 
-## **What’s Inside RebelSUITE?**  
+## **What's Inside RebelSUITE?**  
 
-RebelSUITE consists of five main components, each designed to function independently **or** as part of a seamless ecosystem:  
+RebelSUITE consists of seven main components, each designed to function independently **or** as part of a seamless ecosystem:  
 
 | Program      | Status  | Purpose  |
 |-------------|---------|----------|
 | **RebelCAD** | 🔄 *55% Alpha Complete* | A feature-rich CAD/3D modeling tool with advanced geometry and assembly features. A free alternative to SolidWorks and Fusion 360. |
+| **RebelCALC** | 🔄 *30% Alpha Complete* | An advanced computational engine with support for complex calculations and simulations. |
 | **RebelFLOW** | 🔄 *45% Alpha Complete* | A node-based automation and scripting tool for CAD, game dev, and automation workflows. |
 | **RebelENGINE** | 🔄 *40% Alpha Complete* | A game engine built for rendering, physics, AI, and animation—without costly subscriptions. |
 | **RebelCODE** | 🔄 *35% Alpha Complete* | A lightweight coding and scripting environment with debugging and AI-assisted coding. |
 | **RebelDESK** | 🔄 *75% Alpha Complete* | A modular, AI-powered IDE for productivity, project management, and development. |
+| **RebelSCRIBE** | 🔄 *25% Alpha Complete* | Documentation and content management system with AI-assisted content generation and organization. |
 
 These programs are designed to share **data, file formats, and plugins**, creating a unified ecosystem.  
 
@@ -36,7 +38,7 @@ These programs are designed to share **data, file formats, and plugins**, creati
 
 ## **Installation & Usage**  
 
-Right now, RebelSUITE is in active development and doesn’t have a one-click installer. However, you can explore each program from source:  
+Right now, RebelSUITE is in active development and doesn't have a one-click installer. However, you can explore each program from source:  
 
 1. **Clone the Repository:**  
    ```
@@ -59,7 +61,7 @@ As the suite progresses, packaged releases and installers will become available.
 
 ## **Current Development Status & Roadmap**  
 
-RebelSUITE is still in **Alpha**, meaning core features are being implemented. Here’s the progress toward release:  
+RebelSUITE is still in **Alpha**, meaning core features are being implemented. Here's the progress toward release:  
 
 | **Milestone**      | **Progress** | **Target Completion** |
 |--------------------|-------------|----------------------|
@@ -69,17 +71,19 @@ RebelSUITE is still in **Alpha**, meaning core features are being implemented. H
 
 ### **Immediate Development Goals (Next 3 Months)**  
 
-✔ Stabilize **RebelCAD’s** core systems (memory management & constraint solver).  
-✔ Implement **RebelFLOW’s** UI and backend logic.  
+✔ Stabilize **RebelCAD's** core systems (memory management & constraint solver).  
+✔ Implement **RebelFLOW's** UI and backend logic.  
 ✔ Begin **cross-program integration** (shared file formats, plugin system).  
-✔ Build out **RebelCODE’s** editor functionality & scripting tools.  
-✔ Expand **RebelENGINE’s** rendering and physics framework.  
+✔ Build out **RebelCODE's** editor functionality & scripting tools.  
+✔ Expand **RebelENGINE's** rendering and physics framework.  
+✔ Develop **RebelCALC's** computational engine and scripting support.  
+✔ Establish **RebelSCRIBE's** documentation framework and AI-assisted content generation.  
 
 ---
 
 ## **Contribute to RebelSUITE**  
 
-Since RebelSUITE is fully open-source, **anyone can contribute!** Whether you’re a developer, tester, writer, or just someone who believes in the mission, your support makes a difference.  
+Since RebelSUITE is fully open-source, **anyone can contribute!** Whether you're a developer, tester, writer, or just someone who believes in the mission, your support makes a difference.  
 
 ### **How to Help:**  
 💡 **Report Issues** – Found a bug or have a feature request? Open an Issue!  
@@ -88,7 +92,7 @@ Since RebelSUITE is fully open-source, **anyone can contribute!** Whether you’
 📢 **Spread the Word** – Share the project with others who might benefit!  
 💰 **Support Development** – Donations help keep RebelSUITE alive and growing. You can contribute via **[PayPal](https://www.paypal.com/donate/?hosted_button_id=5CVDF9XX5858U)**. Every donation goes toward making these tools better and more accessible.  
 
-Even if you’re not a developer, **your feedback matters**—testing, ideas, and support help drive the project forward.  
+Even if you're not a developer, **your feedback matters**—testing, ideas, and support help drive the project forward.  
 
 ---
 
@@ -103,7 +107,7 @@ Follow the GitHub repository for the latest updates, releases, and announcements
 
 ## **Final Thoughts**  
 
-RebelSUITE is more than just a software project—it’s a **movement** against overpriced, restrictive corporate software. By using AI to develop these tools, I’m proving that **anyone** can build something meaningful.  
+RebelSUITE is more than just a software project—it's a **movement** against overpriced, restrictive corporate software. By using AI to develop these tools, I'm proving that **anyone** can build something meaningful.  
 
-If you believe in the mission, **star this repo**, try out the software, and help bring RebelSUITE to life! 🚀  
+If you believe in the mission, **star this repo**, try out the software, and help bring RebelSUITE to life! 🚀
 
