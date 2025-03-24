@@ -13,17 +13,18 @@ My goal is simple: **Break the chains of corporate software pricing** and give p
 
 RebelSUITE consists of seven main components, each designed to function independently **or** as part of a seamless ecosystem:  
 
-| Program      | Status  | Purpose  |
-|-------------|---------|----------|
-| **RebelCAD** | 🔄 *55% Alpha Complete* | A feature-rich CAD/3D modeling tool with advanced geometry and assembly features. A free alternative to SolidWorks and Fusion 360. |
-| **RebelCALC** | 🔄 *30% Alpha Complete* | An advanced computational engine with support for complex calculations and simulations. |
-| **RebelFLOW** | 🔄 *45% Alpha Complete* | A node-based automation and scripting tool for CAD, game dev, and automation workflows. |
-| **RebelENGINE** | 🔄 *40% Alpha Complete* | A game engine built for rendering, physics, AI, and animation—without costly subscriptions. |
-| **RebelCODE** | 🔄 *35% Alpha Complete* | A lightweight coding and scripting environment with debugging and AI-assisted coding. |
-| **RebelDESK** | 🔄 *75% Alpha Complete* | A modular, AI-powered IDE for productivity, project management, and development. |
-| **RebelSCRIBE** | 🔄 *25% Alpha Complete* | Documentation and content management system with AI-assisted content generation and organization. |
+| Program        | Status                   | Purpose  |
+|----------------|--------------------------|----------|
+| **RebelCAD**   | 🔄 *55% Alpha Complete*   | A feature-rich CAD/3D modeling tool with advanced geometry and assembly features. A free alternative to SolidWorks and Fusion 360. |
+| **RebelCALC**  | 🔄 *30% Alpha Complete*   | An advanced computational engine and calculator with offline support, scripting (Lua), and export capabilities. |
+| **RebelFLOW**  | 🔄 *45% Alpha Complete*   | A node-based automation and scripting tool for CAD, game dev, and workflow pipelines. |
+| **RebelENGINE**| 🔄 *40% Alpha Complete*   | A modern game engine supporting rendering, physics, AI, and animation—without the subscription walls. |
+| **RebelCODE**  | 🔄 *35% Alpha Complete*   | A lightweight coding and scripting environment with blueprint editing, debugging, and AI-assisted tools. |
+| **RebelDESK**  | 🔄 *75% Alpha Complete*   | A modular, AI-powered IDE for productivity, project management, and live collaboration. |
+| **RebelSCRIBE**| 🔄 *25% Alpha Complete*   | A novel/documentation writing tool featuring AI-assisted content generation, layout editing, and structured content management. |
 
-These programs are designed to share **data, file formats, and plugins**, creating a unified ecosystem.  
+These programs are designed to share **data, file formats, and plugins**, creating a unified ecosystem.
+ 
 
 ---
 
